@@ -1,12 +1,12 @@
-# NeoBooks
+# NeoReads
 
-NeoBooks, read books in any language
+NeoReads, read books in any language
 
-NeoBooks，开源的多语言阅读应用。
+NeoReads，开源的多语言阅读应用。
 
 # 特色
 
-与其他阅读软件相比，NeoBooks有如下特色：
+与其他阅读软件相比，NeoReads有如下特色：
 
 1. 双语同步对照。在手机上采取横屏双语对照，随时查看翻译。
 1. 强大的字典功能。开源众参词典。多个例句。
