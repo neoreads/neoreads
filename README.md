@@ -25,8 +25,8 @@ NeoReads，开源的多语言阅读应用。
 
 | 语言  |  书籍来源 |
 | --- | --- |
-| 英语 | 古腾堡 |
-| 日语 | 青空文库 |
+| 英语 | [古腾堡](https://www.gutenberg.org/) |
+| 日语 | [青空文库](https://www.aozora.gr.jp/) |
 | 汉语（诗歌） | [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) |
 | 汉语（古文） | [殆知阁](https://github.com/garychowcmu/daizhigev20) |
 
