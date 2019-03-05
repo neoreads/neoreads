@@ -28,7 +28,7 @@ NeoReads，开源的多语言阅读应用。
 | 英语 | 古腾堡 |
 | 日语 | 青空文库 |
 | 汉语（诗歌） | [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) |
-| 汉语（古文） | 待定 |
+| 汉语（古文） | [殆知阁](https://github.com/garychowcmu/daizhigev20) |
 
 # 精品书籍
 
